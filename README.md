@@ -11,8 +11,5 @@ ChatGPT로 웹사이트 만들기
 + index.html
 + html:5
 + Alt+B
-+ <head></head>
-+ <title></title>
-+ <style></style>
-+ <body></body>
-+
++ <head></head><title></title><style></style>
++ <body></body><h1></h1><button></button>
