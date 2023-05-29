@@ -13,5 +13,7 @@ ChatGPT로 웹사이트 만들기
 + Alt+B
 + head : <title></title><style></style>
 + body : <h1></h1><button></button>
++ 남들이 만들어놓은 CSS 꾸러미를 활용
++ 나는 뼈대만 잡는다
 
 
