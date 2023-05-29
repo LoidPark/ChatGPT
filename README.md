@@ -12,7 +12,7 @@ ChatGPT로 웹사이트 만들기
 + html:5
 + Alt+B
 + <head></head>
-++ <title></title>
-++ <style></style>
++ <title></title>
++ <style></style>
 + <body></body>
-++ 
++
