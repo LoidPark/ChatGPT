@@ -1,5 +1,10 @@
 # ChatGPT
 ChatGPT로 웹사이트 만들기
- - Notion
+ - Notion 자료 활용
  - 모든 토글을 열고 닫는 단축키
-   Windows : Ctrl + alt + t 
+   Windows : Ctrl + alt + t
+### Start
++ VScode 설치
++ Extention : Open in Browser
++ ChatGPT 가입
+
