@@ -7,4 +7,3 @@ ChatGPT로 웹사이트 만들기
 + VScode 설치
 + Extention : Open in Browser
 + ChatGPT 가입
-
