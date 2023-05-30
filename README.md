@@ -126,3 +126,43 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
  - 카드 내용 : 한 번 밖에 안쓴 전기밥솥 팝니다. 부모님이 독립 할 때 주신 거에요!
  - 그 외 : 카드 이미지를 클릭하면 새 창이 뜨면서 스파르타코딩클럽 홈페이지로 이동하게 해줘.
 ```
+```
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card">
+        <img src="https://source.unsplash.com/1600x900/?rice-cooker" class="card-img-top" alt="전기밥솥">
+        <div class="card-body">
+          <h5 class="card-title">전기밥솥</h5>
+          <h6 class="card-subtitle mb-2 text-muted">5만원</h6>
+          <p class="card-text">한 번 밖에 안 쓴 전기밥솥 팝니다. 부모님이 독립할 때 주신 거에요!</p>
+          <a href="https://www.spartacodingclub.kr/" target="_blank" class="btn btn-primary">상세 정보</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card">
+        <img src="https://source.unsplash.com/1600x900/?microwave" class="card-img-top" alt="전자렌지">
+        <div class="card-body">
+          <h5 class="card-title">전자렌지</h5>
+          <h6 class="card-subtitle mb-2 text-muted">8만원</h6>
+          <p class="card-text">사용감이 거의 없는 전자렌지 팝니다. 집에서 잘 사용하지 않아서 판매합니다.</p>
+          <a href="https://www.spartacodingclub.kr/" target="_blank" class="btn btn-primary">상세 정보</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card">
+        <img src="https://source.unsplash.com/1600x900/?laptop" class="card-img-top" alt="노트북">
+        <div class="card-body">
+          <h5 class="card-title">노트북</h5>
+          <h6 class="card-subtitle mb-2 text-muted">15만원</h6>
+          <p class="card-text">새로 구입한 노트북을 팝니다. 사용기간은 3개월 정도이며, 상태는 매우 좋습니다.</p>
+          <a href="https://www.spartacodingclub.kr/" target="_blank" class="btn btn-primary">상세 정보</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+```
