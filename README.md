@@ -259,4 +259,4 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 + github
 + index.html 과 image upload
 + Commit changes
-+ settings → pages → branch : none → main 변경
++ settings → pages → branch : none → main 변경 → save
