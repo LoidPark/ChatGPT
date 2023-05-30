@@ -21,7 +21,7 @@ ChatGPT로 웹사이트 만들기
 ```
 + 남들이 만들어놓은 CSS 꾸러미를 활용
 + 나는 뼈대만 잡는다
-```
+```html
 <div>나는 구역을 나누죠</div>
 <p>나는 문단이에요</p>
 <h1>h1은 제목이에요.</h1>
@@ -80,7 +80,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 + 명령만 잘 내리면 알아서 짜준다. VScode에 붙여넣고 Alt+B로 확인하자
 
 ### 4. Chat GPT 카드
-```
+```html
 <!doctype html>
 <html lang="en">
 
@@ -130,7 +130,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 <summary>예시 코드</summary>
 <div markdown="1">
  
-```
+```html
 <div class="container">
   <div class="row">
     <div class="col-md-4">
@@ -178,7 +178,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 <summary>예시 코드</summary>
 <div markdown="1">
  
-```
+```html
 <!doctype html>
 <html lang="en">
 
