@@ -34,7 +34,7 @@ ChatGPT로 웹사이트 만들기
 ```
 ### 3. Chat GPT 명령
 + 남들이 만들어 놓은 CSS 꾸러미 복사
-```
+```html
 <!doctype html>
 <html lang="en">
 
