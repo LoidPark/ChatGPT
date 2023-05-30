@@ -126,6 +126,9 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
  - 카드 내용 : 한 번 밖에 안쓴 전기밥솥 팝니다. 부모님이 독립 할 때 주신 거에요!
  - 그 외 : 카드 이미지를 클릭하면 새 창이 뜨면서 스파르타코딩클럽 홈페이지로 이동하게 해줘.
 ```
+<summary>예시 코드</summary>
+<div markdown="1">
+ 
 ```
 <div class="container">
   <div class="row">
@@ -164,8 +167,11 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
     </div>
   </div>
 </div>
-
 ```
+
+</div>
+</details>
+
 ### 5. 카드 꾸미기
 <details>
 <summary>예시 코드</summary>
