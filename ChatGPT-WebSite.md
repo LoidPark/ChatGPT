@@ -7,7 +7,7 @@ ChatGPT로 웹사이트 만들기
 + VScode 설치
 + Extention : Open in Browser
 + ChatGPT 가입
-### 2. HTML / CSS
+## 2. HTML / CSS
 + index.html
 + html:5
 + Alt+B : open in browser
@@ -32,7 +32,7 @@ ChatGPT로 웹사이트 만들기
 <input type="text">
 <button>버튼입니다.</button>
 ```
-### 3. Chat GPT 명령
+## 3. Chat GPT 명령
 + 남들이 만들어 놓은 CSS 꾸러미 복사
 ```html
 <!doctype html>
@@ -79,7 +79,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 ```
 + 명령만 잘 내리면 알아서 짜준다. VScode에 붙여넣고 Alt+B로 확인하자
 
-### 4. Chat GPT 카드
+## 4. Chat GPT 카드
 ```html
 <!doctype html>
 <html lang="en">
@@ -173,7 +173,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 </div>
 </details>
 
-### 5. 카드 꾸미기
+## 5. 카드 꾸미기
 <details>
 <summary>예시 코드</summary>
 <div markdown="1">
@@ -255,7 +255,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 + 복.붙 중에 코드 줄이 안 맞다? ctrl+A → ctrl+K+F 단축기로 정렬!
 + 실제 이미지를 넣어서 페이지를 커스터마이징 하자!
 
-### 6. 배포하기
+## 6. 배포하기
 + github
 + index.html 과 image upload
 + Commit changes
