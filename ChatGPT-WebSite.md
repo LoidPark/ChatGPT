@@ -2,6 +2,7 @@
 ChatGPT로 웹사이트 만들기
  - Notion 자료 활용
  - 모든 토글을 열고 닫는 단축키 → <span style="color:red">Windows : Ctrl + alt + t</span>
+ - <span style="color:red"> 글씨색 변경 </span>
 
 ## 1. Start
 + VScode 설치
