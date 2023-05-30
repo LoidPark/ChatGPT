@@ -260,3 +260,4 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 + index.html 과 image upload
 + Commit changes
 + settings → pages → branch : none → main 변경 → save
++ visit site로 배포 완료!
