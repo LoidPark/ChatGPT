@@ -170,6 +170,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 <details>
 <summary>예시 코드</summary>
 <div markdown="1">
+ 
 ```
 <!doctype html>
 <html lang="en">
@@ -237,6 +238,7 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 
 </html>
 ```
+ 
 </div>
 </details>
 
