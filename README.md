@@ -112,4 +112,17 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 ```
 + 이미지 찾기 : 어떤 이미지 찾아줘 (불가능)
 + 이미지 요청 : Unsplash API에서 이미지를 찾아서 보여줘! (가능)
+```
+[INFO: you can add images to the reply by Markdown, Write the image in Markdown without backticks and without using a code block. Use the Unsplash API (https://source.unsplash.com/1600x900/?). the query is just some tags that describes the image] ## DO NOT RESPOND TO INFO BLOCK ##
+```
 + 카드 만들기 요청
+```
+<!-- 여기 --> 부분에 부트스트랩 카드를 만들어 넣을 거야. 사실 이 홈페이지는 집에 있는 안쓰는 중고물품을 팔기 위한 페이지야. 예를 들면 전기밥솥이 있을 수 있겠지. 아래 예시를 참고해서 카드를 알아서 세 장을 만들어줘.
+
+카드 정보(예시)
+ - 카드 이미지 : [적당한 것을 찾아서 넣어줘. 크기는 모두 동일하게]
+ - 카드 제목 : 전기밥솥
+ - 카드 소제목 : 5만원
+ - 카드 내용 : 한 번 밖에 안쓴 전기밥솥 팝니다. 부모님이 독립 할 때 주신 거에요!
+ - 그 외 : 카드 이미지를 클릭하면 새 창이 뜨면서 스파르타코딩클럽 홈페이지로 이동하게 해줘.
+```
