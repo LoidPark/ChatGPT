@@ -11,11 +11,18 @@ ChatGPT로 웹사이트 만들기
 + index.html
 + html:5
 + Alt+B
-+ head : <title></title><style></style>
-+ body : <h1></h1><button></button>
++ head
+```
+<title></title><style></style>
+```
++ body
+```
+<h1></h1><button></button>
+```
 + 남들이 만들어놓은 CSS 꾸러미를 활용
 + 나는 뼈대만 잡는다
 
+```
 <div>나는 구역을 나누죠</div>
 <p>나는 문단이에요</p>
 <h1>h1은 제목이에요.</h1>
@@ -25,3 +32,4 @@ ChatGPT로 웹사이트 만들기
 <img src="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/free/logo_teamsparta.png" width="300"/>  
 <input type="text">
 <button>버튼입니다.</button>
+```
