@@ -10,7 +10,7 @@ ChatGPT로 웹사이트 만들기
 ### 2. HTML / CSS
 + index.html
 + html:5
-+ Alt+B
++ Alt+B : open in browser
 + head
 ```
 <title></title><style></style>
