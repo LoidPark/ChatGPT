@@ -33,3 +33,4 @@ ChatGPT로 웹사이트 만들기
 <input type="text">
 <button>버튼입니다.</button>
 ```
+### 3. Chat GPT 명령
