@@ -257,4 +257,6 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 
 ### 6. 배포하기
 + github
++ index.html 과 image upload
++ Commit changes
 + 
