@@ -78,4 +78,6 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 배경색은 적당히 어두운 색으로 해주고, 글씨는 흰 색으로 해줘.
 ```
 + 명령만 잘 내리면 알아서 짜준다. VScode에 붙여넣고 Alt+B로 확인하자
-### 4. Chat GPT 
+
+### 4. Chat GPT
+
