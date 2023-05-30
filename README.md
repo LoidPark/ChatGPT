@@ -167,6 +167,10 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 
 ```
 ### 5. 카드 꾸미기
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
 ```
 <!doctype html>
 <html lang="en">
@@ -234,6 +238,10 @@ hero에 들어갈 제목은 'SKYxFAMILY MARKET'이라고 써주고,
 
 </html>
 ```
+
+</div>
+</details>
+
 + head 아래쪽에 공백을 추가해줘
 + 카드에 마우스를 올리면 부드럽게 커지게 하고 싶어
 + 열심히 복.붙
